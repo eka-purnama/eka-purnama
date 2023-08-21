@@ -1,4 +1,12 @@
-### Hi there 👋
+## Halo semua! 
+
+Perkenalkan nama saya **Gede Eka Purnama Putra**.\
+
+Saya seorang Mahasiswa di [Institut Teknologi dan Bisnis STIKOM Bali](https://www.stikom-bali.ac.id/).\
+
+Jika Anda tertarik untuk berkenalan lebih dekat dengan saya, silakan kunjungi akun [Linkedin](www.linkedin.com/in/ini-eka-purnama) saya.
+
+🌱 Sekarang saya sedang belajar di Machine Learning Path pada Program Bangkit Academy
 
 <!--
 **eka-purnama/eka-purnama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
